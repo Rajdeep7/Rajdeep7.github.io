@@ -1787,8 +1787,8 @@ header .logo a {
  */
 #project {
 	background: #FFFFFF;
-	padding-top: 15rem;
-	padding-bottom: 15rem;
+	padding-top: 12rem;
+	padding-bottom: 12rem;
 }
 #project .folio-item {
 	padding: 0;
@@ -1847,7 +1847,7 @@ header .logo a {
 	padding: 0;
 	text-transform: uppercase;
 	font-family: "poppins-regular", sans-serif;
-	font-size: 0.9rem;
+	font-size: 1.2rem;
 	letter-spacing: .1rem;
 	color: rgba(255, 255, 255, 0.6);
 }
