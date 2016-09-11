@@ -1221,8 +1221,8 @@ header .logo a {
 	display: block;
 	width: 100%;
 	font-family: "poppins-medium", sans-serif;
-	font-size: 2.5rem;
-	position: center;
+	font-size: 1.5rem;
+	position: left;
 	top: 100%;
 	left: 0;
 }
