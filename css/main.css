@@ -2186,7 +2186,7 @@ header .logo a {
 	max-width: 1440px;
 }
 #stats .stat {
-	border-left: 1px solid rgba(255, 255, 255, 0.12);
+	border-left: 0.5px solid rgba(255, 255, 255, 0.12);
 	min-height: 17.4rem;
 }
 #stats .stat:first-child {
