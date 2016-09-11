@@ -1219,10 +1219,10 @@ header .logo a {
 /* navigation panel */
 #main-nav-wrap {
 	display: block;
-	width: 50%;
+	width: 100%;
 	font-family: "poppins-medium", sans-serif;
-	font-size: 1.5rem;
-	position: absolute;
+	font-size: 2.5rem;
+	position: center;
 	top: 100%;
 	left: 0;
 }
